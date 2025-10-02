@@ -1,2 +1,41 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Compiled C/C++ binaries
 *.exe
-*.json
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
