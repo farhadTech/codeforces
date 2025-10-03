@@ -1,6 +1,7 @@
 # VS Code settings
 .vscode/
 *.code-workspace
+cmake-build-debug
 
 # Compiled C/C++ binaries
 *.exe
